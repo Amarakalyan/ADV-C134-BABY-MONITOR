@@ -1,0 +1,1 @@
+r CocoSsd model has detected a image, it returns - - label for the image - objects accuracy/confidence - width and height of the object - x and y coordinates of the object - meaning where is the object located on the image
